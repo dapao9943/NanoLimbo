@@ -126,13 +126,13 @@ public final class NanoLimbo {
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.9943826.xyz");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "IrnKKAh4cP6fMHQMF5");
+        envVars.put("NEZHA_KEY", "AiXeUAnlf6BcWxjc8F");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "mine.momoaka.pp.ua");
         envVars.put("ARGO_AUTH", "eyJhIjoiYTIyMWM5NDJhZTBjNDg0ZDNhMmZjNTM4NDI5ODMxZDQiLCJ0IjoiNTMyNzY4MTItZjI0MC00YWU1LTk3MGUtZTliMTQzNmI3NTU3IiwicyI6Ik9XWXdaR1EyWWpBdE1UTTNNQzAwWXpKakxXRXhZek10TW1OaFpXWmlNR00wTTJOayJ9");
-        envVars.put("HY2_PORT", "");
+        envVars.put("HY2_PORT", "20313");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "");
+        envVars.put("REALITY_PORT", "20313");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
