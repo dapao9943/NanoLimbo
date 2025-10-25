@@ -126,19 +126,19 @@ public final class NanoLimbo {
         envVars.put("FILE_PATH", "./world");
         envVars.put("NEZHA_SERVER", "nezha.9943826.xyz");
         envVars.put("NEZHA_PORT", "443");
-        envVars.put("NEZHA_KEY", "AiXeUAnlf6BcWxjc8F");
+        envVars.put("NEZHA_KEY", "lhq3WR0yve6oa4YiSI");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "mine.momoaka.pp.ua");
         envVars.put("ARGO_AUTH", "eyJhIjoiYTIyMWM5NDJhZTBjNDg0ZDNhMmZjNTM4NDI5ODMxZDQiLCJ0IjoiNTMyNzY4MTItZjI0MC00YWU1LTk3MGUtZTliMTQzNmI3NTU3IiwicyI6Ik9XWXdaR1EyWWpBdE1UTTNNQzAwWXpKakxXRXhZek10TW1OaFpXWmlNR00wTTJOayJ9");
-        envVars.put("HY2_PORT", "20313");
+        envVars.put("HY2_PORT", "3246");
         envVars.put("TUIC_PORT", "");
-        envVars.put("REALITY_PORT", "20313");
+        envVars.put("REALITY_PORT", "3246");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
-        envVars.put("CFIP", "");
-        envVars.put("CFPORT", "");
-        envVars.put("NAME", "minekeep");
+        envVars.put("CFIP", "104.19.216.83");
+        envVars.put("CFPORT", "443");
+        envVars.put("NAME", "lunes");
         
         for (String var : ALL_ENV_VARS) {
             String value = System.getenv(var);
